@@ -1,0 +1,200 @@
+  
+
+
+#boxblockchain {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: relative;
+    max-width: 85vw;
+    max-height: 75vw;
+    min-width: 35vw;
+    min-height: 35vw;
+    border: 1.5vw solid #222;
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+    .title {
+        position: relative;
+        color: black;
+        font-size: 3vw;
+        opacity: .8;
+        line-height:0;
+        -webkit-transition: .5s;
+        -o-transition: .5s;
+        transition: .5s;
+    }
+    &:hover {
+        -webkit-box-shadow: 0 1vw 0 -2vw #19b73e,
+                    0 -2vw 0 -1vw #dc0028,
+                    -2vw 0 0 -1vw #1328db,
+                    2vw 0px 0 -1vw #ff560b,
+                    inset 0 1vw 0 -1vw #19b73e,
+                    inset 0 -2vw 0 -1vw #dc0028,
+                    inset -2vw 0 0 -1vw #1328db,
+                    inset 2vw 0px 0 -1vw #ff560b;
+                box-shadow: 0 2vw 0 -1vw #19b73e,
+                    0 -2vw 0 -1vw #dc0028,
+                    -2vw 0 0 -1vw #1328db,
+                    2vw 0px 0 -1vw #ff560b,
+                    inset 0 2vw 0 -1vw #19b73e,
+                    inset 0 -2vw 0 -1vw #dc0028,
+                    inset -2vw 0 0 -1vw #1328db,
+                    inset 2vw 0px 0 -1vw #ff560b;
+    }
+}
+
+
+.App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    height: 20vmin;
+    pointer-events: none;
+    width: 10vw;
+    position: relative;
+    top: 0;
+    left: 1;
+  }
+  
+  .buttons{
+    margin-top: 3vw;
+  }
+  
+  .wrapperhide, .abouthide, .appshide, .webhide, .blockchainhide, .datavishide{
+    text-align: center;
+    height: 0;
+    overflow: hidden;
+    transition: all 0.1s ease-in-out;
+  }
+  
+  .App-profile {
+    height: 20vw;
+    pointer-events: none;
+    width: 20vw;
+    display: flex;
+  }
+
+  .App-mobile {
+    height: 25vw;
+    pointer-events: none;
+    width: 20vw;
+    display: flex;
+  }
+  .App-dnrone {
+    height: 5vw;
+    pointer-events: none;
+    width: 20vw;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 10s linear;
+    }
+  }
+  .box{
+    background: white;
+    color: white;
+    padding: 2vw;
+    display:flex;
+    
+  }
+
+  .boxinsidechain{
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    color: white;
+    padding: 1vw;
+    margin-right: 1vw;
+    margin-left:1vw;
+    margin-bottom: 1vw;
+    width: 25vw;
+  }
+  .boxinsidechain:hover {
+    background-color:#F2F3F4 
+  }
+  .img {
+    transition:transform 0.25s ease;
+    width:2vw;
+}
+
+.img:hover {
+    -webkit-transform:scale(15); /* or some other value */
+    transform:scale(15);
+}
+
+  .boxinsidechaintitle{
+    display: flex ;
+    flex-direction: column ;
+    font-size: 0.8vw;
+    color:#222
+  }
+  
+  .paragraphstyle{
+  
+    color: black;
+    font-family:Manrope;
+    font-weight:bold;
+    font-size:1.5vw;
+    display:flex;
+    margin-right:2vw;
+    line-height:2;
+    justify-content:center
+  
+  
+  }
+  
+  .about, .apps, .web, .blockchain, .datavis{
+    transform: translateY(130vw);
+    transition-timing-function: ease-in;
+    transition: 0.2s;
+    min-width: 25vw;
+    max-width: 85vw;
+    position: relative;
+    padding: 0.5vw;
+    flex-direction: row;
+  }
+  
+  .wrapper{
+    min-width: 25vw;
+    position: relative;
+    background: linear-gradient(to right, rgb(184, 165, 165), #c9934d);
+    padding: 0.5vw;
+    flex-direction: row;
+  }
+  .App-header {
+    animation: 1s ease-out 0s 1 slideInFromLeft;
+    background: linear-gradient(to left,white 50%, #c9934d 50% );
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  @keyframes slideInFromLeft {
+    0% {
+      transform: translateX(-90%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+  
