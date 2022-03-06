@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/me/static/css/main.3c340e05.css",
+    "main.js": "/me/static/js/main.60a04a86.js",
+    "static/js/415.fb8472fd.chunk.js": "/me/static/js/415.fb8472fd.chunk.js",
+    "static/js/787.016dd43c.chunk.js": "/me/static/js/787.016dd43c.chunk.js",
+    "static/media/androidphone22.png": "/me/static/media/androidphone22.c74783d312e4744c9473.png",
+    "static/media/cartoonyoussef-1.png": "/me/static/media/cartoonyoussef-1.10360ccb94e4d9e1c73f.png",
+    "static/media/dnronescreen1.png": "/me/static/media/dnronescreen1.13e7de3b07970fce9605.png",
+    "static/media/Moon3.svg": "/me/static/media/Moon3.4fdebc9cf579e4bcafab00eb280a1caf.svg",
+    "index.html": "/me/index.html",
+    "main.3c340e05.css.map": "/me/static/css/main.3c340e05.css.map",
+    "main.60a04a86.js.map": "/me/static/js/main.60a04a86.js.map",
+    "415.fb8472fd.chunk.js.map": "/me/static/js/415.fb8472fd.chunk.js.map",
+    "787.016dd43c.chunk.js.map": "/me/static/js/787.016dd43c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c340e05.css",
+    "static/js/main.60a04a86.js"
+  ]
+}

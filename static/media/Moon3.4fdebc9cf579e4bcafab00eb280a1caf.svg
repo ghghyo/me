@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="640" height="480" viewBox="0 0 640 480" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.3</desc>
+<defs>
+</defs>
+<g transform="matrix(0 1.59 -1.59 0 323.01 242.01)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 0 0)"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="145" />
+</g>
+		<g transform="matrix(1 0 0 1 0 0)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="145" />
+</g>
+		<g transform="matrix(1 0 0 1 -72.5 0)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  transform=" translate(-77.5, -150)" d="M 150 295 c -79.649 0 -145 -65.351 -145 -145 c 0 -79.649 65.351 -145 145 -145 M 150 295 z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+<g transform="matrix(2.09 0 0 2.09 400.5 222.92)" style=""  >
+		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-53.33" y="-41.53" >Press</tspan><tspan x="-53.33" y="-17.94" >me</tspan><tspan x="-53.33" y="5.65" >for</tspan><tspan x="-53.33" y="29.25" style="fill: rgb(255,255,255); ">fun</tspan><tspan x="-53.33" y="52.84" style="fill: rgb(255,255,255); ">mode!</tspan></text>
+</g>
+</svg>
