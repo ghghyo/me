@@ -218,8 +218,8 @@ function App() {
               <p className="paragraphstyle" style={{ fontWeight: "normal", display: "block" }}>
                 Lets start off with a fascinating fact:<strong> I have 4 middle names 😲</strong>
                 <br />
-                Also important, I produce things that <strong> help others </strong>. I am extremely passionate about becoming a <strong> creative developer </strong> and bringing in a <strong> data-driven </strong>, technical mindset to government.  Most of my education and work has been in <strong> Data Science </strong>, but everything on here relates to software development I've pursued in my free time. I am proficient in
-                <strong> Python, R, Javascript, Solidity </strong> and stackoverflow 😉 and have produced a variety of <strong> full-stack applications. </strong> Other than computer languages, I speak <strong> English, Arabic and French </strong> which I think is pretty cool. I hope
+                Also important, I produce things that <strong> help others </strong>. I am extremely passionate about becoming a <strong> creative developer </strong> and bringing in a <strong> data-driven </strong>, technical mindset to the government.  My education and work has been heavily focused in <strong> Data Science </strong>, but I have also pursued software development in my free time. I am proficient in
+                <strong> Python, R, Javascript, Solidity </strong> and stackoverflow 😉 and have produced a variety of <strong> full-stack applications. </strong> Other than computer languages, I speak <strong> English, Arabic and French </strong>. I hope
                 you enjoy my page! Feel free to reach out <strong> <a href="https://www.linkedin.com/in/youssef-abubaker-5b3065158">here</a> </strong>  if you want to talk: <a href="https://www.linkedin.com/in/youssef-abubaker-5b3065158">👨‍💼</a>
 
               </p>
@@ -237,7 +237,7 @@ function App() {
             <p className="paragraphstyle" style={{ fontWeight: "normal", display: "block" }}>
                 <strong>App Name:</strong> Reston Cares
                 <br/> 
-                <strong>Short Description:</strong> a humanitarian app for Fairfax county that provides a one stop shop
+                <strong>Short Description:</strong> A humanitarian app for Fairfax county that provides a one stop shop
                 resource list for all those in need. 
                 <br/>
                 <strong>Platforms:</strong> <a href="https://play.google.com/store/apps/details?id=com.youabu.RestonCares"> Google Play </a> and iOS App Store (developed not released).
